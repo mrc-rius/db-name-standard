@@ -1,20 +1,14 @@
 # db-name-standard
-Example of a feasible database name convention tested in different real situations.
+db-name-standard is a feasible database name convention tested in different real situations. It provides a set of rules to ensure a correct database standard and a set of examples. This name convetion has been tested in a DataWarehouse and also in different app databases in real production environtments. With db-name-standard users can improve efficience, readability and make easiers and fasters developments.
 
-Version: v1.0.0
+# Installation
+Not need installation.
 
-This name convetion has been tested in a DataWarehouse and also in different app databases in real production environtments.
+# How to use
+Read Wiki to understand all the rules of the database naming convetion developed, and clone the repo to see examples of differents rules.
 
-Some of the advantatges of a naming convention are:
+# RDBMS 
+Every single RDBMS can take profit. This is because every RDBMS have the same main objects and properties. Those are the main concepts developed for the name convention.
 
-1.to provide additional information (i.e., metadata) about the use to which an identifier is put;
-2.to help formalize expectations and promote consistency within a development team;
-3.to enable the use of automated refactoring or search and replace tools with minimal potential for error;
-4.to enhance clarity in cases of potential ambiguity;
-5.to enhance the aesthetic and professional appearance of work product (for example, by disallowing overly long names, comical or 
-  "cute" names, or abbreviations);
-6.to help avoid "naming collisions" that might occur when the work product of different organizations is combined (see also: 
-  namespaces);
-7.to provide meaningful data to be used in project handovers which require submission of program source code and all relevant    
-  documentation;
-8.to provide better understanding in case of code reuse after a long interval of time.
+# Contribution
+Contribution is directly restricted, but any suggestion can be send to mrius.carmona@gmail.com
